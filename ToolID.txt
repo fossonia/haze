@@ -1,0 +1,4 @@
+A - Acorn
+B - Leaf
+C - Palm Leaf
+D - Stick
